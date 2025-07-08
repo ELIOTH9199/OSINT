@@ -19,8 +19,8 @@ except ImportError:
     OPENAI_AVAILABLE = False
 
 # ===== CONFIGURATION =====
-API_NUMVERIFY_KEY = "fb2cf36f9b78ae7d085656ff6b70801c"  # Change if needed
-OPENAI_API_KEY = "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"
+API_NUMVERIFY_KEY = "fb2cfh78ae7d085656ff6b70801c"  # Change if needed
+OPENAI_API_KEY = "sk-projAnvS3KV-lZNH_3rokGCIGu7479J0xIJTjP271BCWtcyIflfiSRA9lhBZBMQSRbsERYET3BlbkFJlPXaa2XVeOPlFvY97glAG5f6lcKy8abfyvNLFWkyGNhZ1C5gzpvDiWESFjPwE_3UOsXhXLFdYA"
 
 IMEI_BLACKLIST = {
     # Sample stolen IMEIs (add yours)
@@ -30,7 +30,7 @@ IMEI_BLACKLIST = {
 
 NUMERO_BLACKLIST = {
     # Sample suspicious numbers
-    "+242066629447",
+    "+24206600000",
     "+1234567890",
 }
 
